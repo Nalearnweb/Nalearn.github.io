@@ -1,0 +1,43 @@
+html {
+  background-color: #F1FDF6;
+}
+body {
+  width: 800px;
+  margin: 0 auto;
+  background-color: #E3FCED;
+  padding: 0 20px 20px 20px;
+  border: 1px solid #06371A ;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+a:hover{
+    color :coral;
+}
+
+h1{
+    font-family: 'Slabo 27px', serif;
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+  padding: 20px 0;    
+  color: #15C55F;
+  text-shadow: 3px 3px 1px #13AE53;
+
+}
+h2{
+    
+    font-family: 'Nanum Gothic', sans-serif;
+}
+#F1FDF6
+p{
+    
+    font-family: 'Dancing Script', cursive;
+    font-size: 22px;    
+    line-height: 1;
+    letter-spacing: 1px;
+}
+h3{
+    font-family: 'Nanum Gothic', sans-serif;
+}
